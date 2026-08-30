@@ -12,4 +12,4 @@ This project contains my solutions to various problems on various platforms. The
 
 ## Disclaimer
 
-These solutions are my own and are intended for learning and reference purposes. While they are correct and pass the LeetCode online judge, they may not always represent the most optimal solution. I am always open to feedback and suggestions for improvement!
+These solutions are my own and are intended for learning and reference purposes. While they are correct and pass the online judge, they may not always represent the most optimal solution. I am always open to feedback and suggestions for improvement!
